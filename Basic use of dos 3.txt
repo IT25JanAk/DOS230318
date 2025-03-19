@@ -1,0 +1,73 @@
+Microsoft Windows [Version 10.0.26100.3476]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Work>amandeep
+'amandeep' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Work> Amandeep
+'Amandeep' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Work>
+C:\Work>dir
+ Volume in drive C is Windows
+ Volume Serial Number is F014-A809
+
+ Directory of C:\Work
+
+03/19/2025  09:27 AM    <DIR>          .
+03/19/2025  09:23 AM                 0 Amandeep.txt
+03/19/2025  09:27 AM                19 my name is amandeep.txt
+               2 File(s)             19 bytes
+               1 Dir(s)  823,694,532,608 bytes free
+
+C:\Work> notepad amandeep
+
+C:\Work>type amandeep.txt
+
+C:\Work>dir
+ Volume in drive C is Windows
+ Volume Serial Number is F014-A809
+
+ Directory of C:\Work
+
+03/19/2025  09:30 AM    <DIR>          .
+03/19/2025  09:32 AM                20 Amandeep.txt
+               1 File(s)             20 bytes
+               1 Dir(s)  823,692,402,688 bytes free
+
+C:\Work>notepad amandeep
+
+C:\Work>type amandeep.txt
+my name is Amandeep.
+C:\Work>ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter vEthernet (Default Switch):
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::4b93:3a26:6e88:bcb8%21
+   IPv4 Address. . . . . . . . . . . : 172.20.64.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . :
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : networksupport.local
+   Link-local IPv6 Address . . . . . : fe80::4f4f:afed:82a5:a31d%19
+   IPv4 Address. . . . . . . . . . . : 192.168.208.95
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.208.1
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::ce8f:db13:b41f:942a%5
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+C:\Work>
